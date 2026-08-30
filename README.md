@@ -4,11 +4,12 @@
        width="300">
 </p>
 
+<h1 align="center">Abi_KGB</h1>
+
 <p align="center">
   Hardware-aware KGB parallelization advisor for ABINIT
 </p>
 
-# Abi_KGB
 
 [![tests](https://github.com/Christian48596/Abi_KGB/actions/workflows/tests.yml/badge.svg)](https://github.com/Christian48596/Abi_KGB/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
