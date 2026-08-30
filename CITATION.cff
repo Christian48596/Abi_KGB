@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Abi_KGB in research, please cite the software using the metadata in this file."
+title: "Abi_KGB: Portable hardware- and scheduler-aware parallelization advice for ABINIT"
+type: software
+authors:
+  - family-names: Tantardini
+    given-names: Christian
+version: 1.0.0
+date-released: 2026-08-30
+license: MIT
+repository-code: "https://github.com/Christian48596/Abi_KGB"
+url: "https://github.com/Christian48596/Abi_KGB"
+keywords:
+  - ABINIT
+  - high-performance computing
+  - MPI
+  - SLURM
+  - PBS
+  - electronic structure
+  - parallelization

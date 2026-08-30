@@ -1,0 +1,9 @@
+# Parser/CLI fixture; no pseudopotentials are required when used with --autoparal-log.
+natom 20
+nband 240
+nkpt 14
+nsppol 2
+nspinor 1
+optdriver 0
+ecut 20
+pawecutdg 40
